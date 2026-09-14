@@ -8,6 +8,7 @@ public class Vehicle {
     private String registrationNumber;
     private String vin;
 
+
     public Vehicle(String brandName, String modelName,  int productionYear, String registrationNumber, String vin) {
         this.brandName = brandName;
         this.modelName = modelName;
